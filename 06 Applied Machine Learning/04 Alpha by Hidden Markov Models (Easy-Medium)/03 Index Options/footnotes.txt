@@ -4,4 +4,4 @@ min_expiry: 0
 max_expiry: 180
 min_hold_period: 0
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f010] to save space.

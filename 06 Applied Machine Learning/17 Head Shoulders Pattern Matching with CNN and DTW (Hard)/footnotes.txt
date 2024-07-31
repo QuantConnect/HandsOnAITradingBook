@@ -19,4 +19,4 @@ step_size: 10
 confidence_threshold: 0.5
 holding_period: 10
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f070] to save space.

@@ -17,4 +17,4 @@ days_per_sample: 4
 samples: 100
 universe_size: 10
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f063] to save space.

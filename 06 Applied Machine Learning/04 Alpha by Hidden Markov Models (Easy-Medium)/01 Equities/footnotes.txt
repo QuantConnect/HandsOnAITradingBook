@@ -11,4 +11,4 @@ The results show:
 Backtest Parameters
 lookback_years: 3
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f001] to save space.

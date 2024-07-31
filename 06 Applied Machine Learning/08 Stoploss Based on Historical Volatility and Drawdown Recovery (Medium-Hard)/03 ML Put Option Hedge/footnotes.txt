@@ -1,4 +1,4 @@
 Backtest Parameters
 alpha_exponent: 4
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f039] to save space.

@@ -12,4 +12,4 @@ period: 152
 leverage: 20
 weight_threshold: 0.005
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f014] to save space.

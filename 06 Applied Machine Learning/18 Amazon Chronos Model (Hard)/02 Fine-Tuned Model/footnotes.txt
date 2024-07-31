@@ -3,4 +3,4 @@ The pre-trained HuggingFace models may contain lookahead bias if they were train
 The `context_length` argument defines the length of the context window, which determines how many past tokens are used to predict the next tokens. The default is 512 but we reduced it to 126 (6 months) since we only provide the model 252 data points (1 year) for each asset.
 The `max_steps` argument defines the maximum number of training steps to perform. Training stops after this number of steps. The default is 200,000 but we reduced it to 3 to ensure the algorithm finishes training within the 10-minute quota.
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f079] to save space.

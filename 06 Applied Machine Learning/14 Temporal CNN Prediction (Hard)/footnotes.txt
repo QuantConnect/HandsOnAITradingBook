@@ -16,4 +16,4 @@ Backtest Parameters
 training_samples: 500
 universe_size: 3
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f058] to save space.

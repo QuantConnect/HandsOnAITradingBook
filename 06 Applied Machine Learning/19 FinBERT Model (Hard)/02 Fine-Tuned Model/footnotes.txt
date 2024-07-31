@@ -1,3 +1,3 @@
 The pre-trained HuggingFace models may contain lookahead bias if they were trained on data after January 1, 2019.
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f087] to save space.

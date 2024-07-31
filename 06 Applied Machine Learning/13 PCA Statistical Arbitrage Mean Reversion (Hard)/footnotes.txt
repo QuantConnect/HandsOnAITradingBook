@@ -19,4 +19,4 @@ lookback_days: 63
 z_score_threshold: 1.5
 universe_size: 100
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f053] to save space.

@@ -10,4 +10,4 @@ The results show:
 Backtest Parameters
 stop_loss_percent: 0.95
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f029] to save space.

@@ -18,4 +18,4 @@ Backtest Parameters
 universe_size: 100
 lookback_years: 5
 
-The x-axis tick labels are only shown on the bottom plot of tearsheet1 to save space.
+The x-axis tick labels are only shown on the bottom plot of [c06f019] to save space.
