@@ -20,6 +20,7 @@ class StockSelectionThroughClusteringFundamentalDataAlgorithm(QCAlgorithm):
         self.set_start_date(2018, 12, 31)
         self.set_end_date(2024, 4, 1)
         self.set_cash(100_000)
+        self.settings.daily_precise_end_time = False
 
         self._liquid_universe_size = self.get_parameter(
             'liquid_universe_size', 100
